@@ -1,11 +1,12 @@
 {
     "name": "xl_uniapp",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "./index.js",
     "scripts": {
-        
+
     },
     "dependencies": {
+        "vuexAutoGettersAndAutoMutations":"git+https://gitee.com/nvhaila/vuexAutoGettersAndAutoMutations.git"
     }
   }
   
