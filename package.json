@@ -1,8 +1,9 @@
 {
     "name": "xl_uniapp",
-    "version": "0.0.001",
+    "version": "0.0.1",
     "main": "./index.js",
     "scripts": {
+        
     },
     "dependencies": {
     }
